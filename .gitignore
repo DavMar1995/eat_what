@@ -114,3 +114,4 @@ media/
 
 # Activity default image folder
 /static/images/default-img/*
+db.sqlite3
