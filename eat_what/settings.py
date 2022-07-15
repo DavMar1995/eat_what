@@ -41,7 +41,8 @@ DJANGO_CORE_APPS = [
 ]
 
 MY_APPS = [
-    'helloworld'
+    'helloworld',
+    'restaurant'
 ]
 
 THIRD_PARTY_APPS = []
