@@ -1,0 +1,956 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0044128,
+               "lng" : 120.2223916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.00575933029151,
+                  "lng" : 120.2238155802915
+               },
+               "southwest" : {
+                  "lat" : 23.0030613697085,
+                  "lng" : 120.2211176197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "添福麵館",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101619483291248101094\"\u003e吳欣怡\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3fvsLDlt7PldfEuzd3zszZoJherXZDR8zuzYJg3vmCnNkhpJijSoP-5HsRh5C6sR4KNK-uL1OXPJdAUnpYEGQPcQb3Em76cCT7XJ96a7TSHSF9rmEocUO2qo83z41mImUfl2laYqGjUvewX1ZGMOjmAnJpnfXBguku44DxsNW7wOBCp",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJy3FNy-52bjQRmNhhTi930xA",
+         "plus_code" : {
+            "compound_code" : "263C+QX 台灣台南市北區",
+            "global_code" : "7QM2263C+QX"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJy3FNy-52bjQRmNhhTi930xA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1699,
+         "vicinity" : "北區長榮路四段73號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9957706,
+               "lng" : 120.2170881
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9971004302915,
+                  "lng" : 120.2184350302915
+               },
+               "southwest" : {
+                  "lat" : 22.9944024697085,
+                  "lng" : 120.2157370697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "紅樓小館",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107297700551080685871\"\u003e李珣琦\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3eT1WeSrsTyRB9EqwoVap3ykovHcRU_23lRB05dA7umTrbC-59eLYSXcDfdviw2HTC9sW78QyinAOY7S5R2n_THkvaDLDC4aFZsZMMGKlkAZCH6ObwBGdfTtcNl6fFmPt6KNGimw0_nR6CNHuh25iMcJTYFOMVkv6R2x8BL84_3j34o",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJI9UQqJp2bjQRl0vOf-jSBf4",
+         "plus_code" : {
+            "compound_code" : "X6W8+8R 台灣台南市東區",
+            "global_code" : "7QJ2X6W8+8R"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJI9UQqJp2bjQRl0vOf-jSBf4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1112,
+         "vicinity" : "東區勝利路165巷11號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9886856,
+               "lng" : 120.2099689
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9900364802915,
+                  "lng" : 120.2113124302915
+               },
+               "southwest" : {
+                  "lat" : 22.9873385197085,
+                  "lng" : 120.2086144697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "秋收炭烤",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101960642590571412301\"\u003e郭芳慈\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3fgPX8htrfO89EXGgoln217oXiyqGdLD7CfzH-u2y5oZUSJsKpNVVeQha6lXHHe3PFZK6gkY2AbQiMIbRBPUf2Jcp4HaaA5DOAmG2l9M6WmICsZ-jxJHt32hLZFzEUHhEeRANDE9tjSqzciSRrjeZFFrHYlMQ7DO_huSdusg46_ORB2",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJyQeJGoZ2bjQRlyrkw_c0NlU",
+         "plus_code" : {
+            "compound_code" : "X6Q5+FX 台灣台南市中西區",
+            "global_code" : "7QJ2X6Q5+FX"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJyQeJGoZ2bjQRlyrkw_c0NlU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1046,
+         "vicinity" : "中西區府前路一段61巷5號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9957758,
+               "lng" : 120.2182787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9971303302915,
+                  "lng" : 120.2195515802915
+               },
+               "southwest" : {
+                  "lat" : 22.9944323697085,
+                  "lng" : 120.2168536197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "21風味館 台南成大門市",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116128624091623638861\"\u003eLBL\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3dN8ISFZgyHlKHPyNO_zqY-XPbP9syr0_jk33CAT0Vu0tDPa4aZPJHe8zukMELsWMmBVY43_2bA1_p_8DOTKSIjtBMWC5q91gJRkDmRCbCZL8Z77DIs-K-rHjrfoEEE7fc0juENYVwydXGzYe6XGS4Y60XJFnFwIU01eBAcpwlE8kwu",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJL4pcffBzbjQRGvRYI_O6q_Y",
+         "plus_code" : {
+            "compound_code" : "X6W9+88 台灣台南市東區",
+            "global_code" : "7QJ2X6W9+88"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJL4pcffBzbjQRGvRYI_O6q_Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 739,
+         "vicinity" : "東區勝利路118號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.992795,
+               "lng" : 120.2217277
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9941441302915,
+                  "lng" : 120.2230444802915
+               },
+               "southwest" : {
+                  "lat" : 22.9914461697085,
+                  "lng" : 120.2203465197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "夢東籬茶舍",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108090876010365140161\"\u003e沈坤泉\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3f29p_lObBY9uvSqRqap_UQrJ2qEYFhtbSqWUjnrb767yzdZbZ_N14ubAqfRN6nVWUzBg4djxgYvBu9XhcrHWC9hDN3AMaz2Zm9QEAwmvX70_Pp-bmbinNj4gQN6aTph0OUxPUWpmo0vt5yxr-cS0Y5IBQoL7QaVN76IO15bjjzG5_4",
+               "width" : 2014
+            }
+         ],
+         "place_id" : "ChIJSVKL8JN2bjQRDpooT03JTHY",
+         "plus_code" : {
+            "compound_code" : "X6VC+4M 台灣台南市東區",
+            "global_code" : "7QJ2X6VC+4M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJSVKL8JN2bjQRDpooT03JTHY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 944,
+         "vicinity" : "東區長榮路三段26號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0032411,
+               "lng" : 120.2213002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0045274802915,
+                  "lng" : 120.2226383302915
+               },
+               "southwest" : {
+                  "lat" : 23.0018295197085,
+                  "lng" : 120.2199403697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "日光緩緩早午餐 東豐店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106948376732150951689\"\u003e王朝穩\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3fwYfYEj6MdZwQbyUzmkpNejBukT83DHelSqpIF3SIoYXNQDI-vPreU-FL5T7V_wme4-yoe--qLsWuT51mTpArdzmnwNBe5ZwH78_Fxr9iYdBwCUN_qJjE9CXIXOTWm1Kfj0t3RDfmPAq02Pp5LO9V9ARosdNe26RLibelOchDnuozq",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJD3l92MF2bjQRFL08QGKb3Z4",
+         "plus_code" : {
+            "compound_code" : "263C+7G 台灣台南市北區",
+            "global_code" : "7QM2263C+7G"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJD3l92MF2bjQRFL08QGKb3Z4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 427,
+         "vicinity" : "北區東豐路241號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0043765,
+               "lng" : 120.2226953
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0057270302915,
+                  "lng" : 120.2240136302915
+               },
+               "southwest" : {
+                  "lat" : 23.0030290697085,
+                  "lng" : 120.2213156697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "阿元麵店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100618716029214028754\"\u003e阿龍\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3drRqUILE2Ed3vq1I5gtxlQOWbHdIu9w3r17pBPUiC18qtgF8cIG0Yvxwl_RW1iT-kbHu7qDcedYXu_oM5LTNt_52l-xQyc-zcXsEzPlQd29tz-9girnHaWcpuBcXOgZljaKZ1uinBq_xK9tXzFm5sxEx6G7mA4lN7km03YNy_BbWyH",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJzQkFNOl2bjQR0zU1VMSNhzU",
+         "plus_code" : {
+            "compound_code" : "263F+Q3 台灣台南市北區",
+            "global_code" : "7QM2263F+Q3"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJzQkFNOl2bjQR0zU1VMSNhzU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 973,
+         "vicinity" : "北區長榮路四段60號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9874776,
+               "lng" : 120.217157
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.98872613029151,
+                  "lng" : 120.2184974302915
+               },
+               "southwest" : {
+                  "lat" : 22.9860281697085,
+                  "lng" : 120.2157994697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "城邊真味鱔魚意麵",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117541197200082326522\"\u003e陳曉竹\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3e-axeAigk2zdteohPj9S2vHiD650tiu_tX-yF2S5GfZo8VaaqN0jVy0OmWpAIdF3L4MTbTZqD9Pfrn382Rs6F5HnxqDQ0Ty2M7H0ggpyHhIHwX1tw-bCF3lvs_2RxvNvVR0mmS36LOZuTGWw1brG7sL694RvMvnmA4zAh_5fqQrXdu",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJM5oaqZp2bjQRPotklzEb0i4",
+         "plus_code" : {
+            "compound_code" : "X6P8+XV 台灣台南市東區",
+            "global_code" : "7QJ2X6P8+XV"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJM5oaqZp2bjQRPotklzEb0i4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1455,
+         "vicinity" : "東區東門路一段235號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9916368,
+               "lng" : 120.217888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9929900302915,
+                  "lng" : 120.2191746802915
+               },
+               "southwest" : {
+                  "lat" : 22.9902920697085,
+                  "lng" : 120.2164767197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mr.拉麵(台南店)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3992,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115485511705678646313\"\u003echun zhi Yang\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3dITl8XcpFMijO9Hywe2LzAjkbO6KfR440Y-kITcF7veM7_EyO74_uQIryGhm6P18Fp70o3hbVGYwJJPpZswkt2EafIiSUZiImOBae26uT6yIRG3L-iWqjzDQ24VKrmhuAQ3fVU2iFhwEoQxJoUv6hNwaMzdtdAl-reld6lviF_VZUi",
+               "width" : 6394
+            }
+         ],
+         "place_id" : "ChIJeao3wJF2bjQROSL6QOoUDLM",
+         "plus_code" : {
+            "compound_code" : "X6R9+M5 台灣台南市東區",
+            "global_code" : "7QJ2X6R9+M5"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJeao3wJF2bjQROSL6QOoUDLM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1362,
+         "vicinity" : "東區勝利路54-1號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9905,
+               "lng" : 120.2256728
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9919646802915,
+                  "lng" : 120.2270548802915
+               },
+               "southwest" : {
+                  "lat" : 22.9892667197085,
+                  "lng" : 120.2243569197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "拿坡里披薩 東寧店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116441872917930445906\"\u003e小神あきら\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3eAFyYTOuI9BRaSUtlDlls2PfUQ7lFmMRE7cwc2CEw5Y1X37_jYHWh6DoNwjaQv12TeenrYpLUCkA2TAKPRb2Kw5OYrMF1ViEoXJvGrQ5SIdJsIvJ2SEXd3TnJpbp-FNNQdSLTP222PIQOvFfpK52SyhFA8D0e1WDJxDXhUnmXI5rGW",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJB2NnZJZ2bjQRcH2mVH0tY8o",
+         "plus_code" : {
+            "compound_code" : "X6RG+57 台灣台南市東區",
+            "global_code" : "7QJ2X6RG+57"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJB2NnZJZ2bjQRcH2mVH0tY8o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 503,
+         "vicinity" : "東區東寧路264號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9890955,
+               "lng" : 120.2105948
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9903691302915,
+                  "lng" : 120.2119418802915
+               },
+               "southwest" : {
+                  "lat" : 22.9876711697085,
+                  "lng" : 120.2092439197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "阿和肉燥飯",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107421936034134551955\"\u003eChloe Liu\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3dbiRXziEeCxXZbQdd82oVdSbFZVFDuRUsnUd-s8g-CxIcNU_E9IL5h8UCx0ymByYFAz5BXB0XrJFsxls6cG5Qeu3Eaz2S12ggZ-ioCP18pcCHfNYR3I4Q8SLcVW-bklig6NDW7f9lkGbwXiFjE-dAuvN5H5Gkfd9qzx4rxN3tV6MAA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJc2gHAYZ2bjQRTHdMRTvYBoI",
+         "plus_code" : {
+            "compound_code" : "X6Q6+J6 台灣台南市中西區",
+            "global_code" : "7QJ2X6Q6+J6"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJc2gHAYZ2bjQRTHdMRTvYBoI",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1811,
+         "vicinity" : "中西區府前路一段12號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9954984,
+               "lng" : 120.2098291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9968840302915,
+                  "lng" : 120.2111634802915
+               },
+               "southwest" : {
+                  "lat" : 22.99418606970849,
+                  "lng" : 120.2084655197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "瓦城泰國料理 - 台南三越中山店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106870544212319859157\"\u003eJason\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3fMYGaN45_sdLmZNTfwCrovC6DUGIX93WJq4jJ_PHPJaGnfc69n_jIZALS_dSps4zZU_i-Ddkg8CwpsjvHBH_hfDhKNuustcXvd8OO4WFNFS1b6-qjQE4UiX_0OhG2lXLVvLsqz4jJPamY-NB1BtYcZR_1izwk1lY9pZIDWSrrKNdJZ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJtbko7It2bjQRNsIWoZ2QMf8",
+         "plus_code" : {
+            "compound_code" : "X6W5+5W 台灣台南市中西區",
+            "global_code" : "7QJ2X6W5+5W"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJtbko7It2bjQRNsIWoZ2QMf8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 514,
+         "vicinity" : "中西區中山路162號12樓"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9944973,
+               "lng" : 120.2140763
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9957766802915,
+                  "lng" : 120.2154187302915
+               },
+               "southwest" : {
+                  "lat" : 22.9930787197085,
+                  "lng" : 120.2127207697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "凱吉思",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112594465131500328890\"\u003eWilliam Lin\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3c57DgAXyY4K8BOjzysSnyX8UjHA1salFMfCoHI2RY6QYBd-qnLmXAlvPwmBktGx-2yhGki5lVCSTRUPJsPTPw2eiER-x2V2SKNU6gWJludeyUzDLFIA5xDiC9TXbW_UVeZzRSGGtMs0TyXvE2VlR5j1KoBcVd590dkk0ITZWbzWyg1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ1UX9zY12bjQRqTVzZO9oy70",
+         "plus_code" : {
+            "compound_code" : "X6V7+QJ 台灣台南市東區",
+            "global_code" : "7QJ2X6V7+QJ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ1UX9zY12bjQRqTVzZO9oy70",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 645,
+         "vicinity" : "東區民族路一段70號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.99380399999999,
+               "lng" : 120.22151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9951470802915,
+                  "lng" : 120.2229445802915
+               },
+               "southwest" : {
+                  "lat" : 22.99244911970849,
+                  "lng" : 120.2202466197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "北南山小館",
+         "place_id" : "ChIJ7Qetk5N2bjQRJNeWGPL5xCc",
+         "plus_code" : {
+            "compound_code" : "X6VC+GJ 台灣台南市東區",
+            "global_code" : "7QJ2X6VC+GJ"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ7Qetk5N2bjQRJNeWGPL5xCc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "東區長榮路三段43號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9917239,
+               "lng" : 120.2217668
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9931719302915,
+                  "lng" : 120.2231532302915
+               },
+               "southwest" : {
+                  "lat" : 22.9904739697085,
+                  "lng" : 120.2204552697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "喜得炭火燒三明治",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2231,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106016014675050543891\"\u003e踏破鐵鞋\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3e3tDuY7Fj4p3RVver14L_1HR1tv9v37YoeYsU30hG7M71NsFxR1eIqjHQJz1rZkimhAkzMClQR_K11yje3SgbUZLVUrDdKdjpIPjCoDmUj9o15e-iY3BxWne2wpI8OPBivIY4Yi_q_vbEjt7uaT9DQYkfC52nZCfWyV7uwICn-MDIV",
+               "width" : 3965
+            }
+         ],
+         "place_id" : "ChIJG3WgUJF2bjQR1MH8cN2bOyA",
+         "plus_code" : {
+            "compound_code" : "X6RC+MP 台灣台南市東區",
+            "global_code" : "7QJ2X6RC+MP"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJG3WgUJF2bjQR1MH8cN2bOyA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 264,
+         "vicinity" : "東區東寧路122號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9962278,
+               "lng" : 120.217891
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9976138802915,
+                  "lng" : 120.2192482802915
+               },
+               "southwest" : {
+                  "lat" : 22.9949159197085,
+                  "lng" : 120.2165503197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Jamys潛艇堡專賣店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109332471501086345148\"\u003eThe picky Queen\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3crCHwvEn_JmO9QWNbQWu_QpDKo9f8DnXPmL0g3ePEAobutPnnS1Y-35FlyLcauo7ymBJBO-jkzwSVmllhXGY9mhDVbY0jePc2-VVwg6NcVudkkm404OZOgzj48Tkw5qSlElZOTObnsH_u8g2oA8xKbDSIxALs-zOE3zhh1UDYqtn2p",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJeQQqjJJ2bjQRhZLM-FIHGF0",
+         "plus_code" : {
+            "compound_code" : "X6W9+F5 台灣台南市東區",
+            "global_code" : "7QJ2X6W9+F5"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJeQQqjJJ2bjQRhZLM-FIHGF0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 483,
+         "vicinity" : "東區大學路西段9號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9964127,
+               "lng" : 120.2146015
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9979197302915,
+                  "lng" : 120.2159444302915
+               },
+               "southwest" : {
+                  "lat" : 22.9952217697085,
+                  "lng" : 120.2132464697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Mezz 牛排龍蝦館 - 台南遠東香格里拉",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 709,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116149144139250876758\"\u003eThe Mezz 牛排龍蝦館 - 台南遠東香格里拉\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3f0Di67z45KTQTIPKAiTxCOzsL9-vsVpHtFTiXpymYAtqq-RbMcSrUQfGyfAsK7HXZCaPbllZDim1xsPIqL9P4DAkI1z79hAN2IYZhGCVxJ1STM913S5b86CUt_p1EEsI4XB3U6iS8dMyGVk6GjsXocJxSBMeowkma8wOcvrwv4muJc",
+               "width" : 1098
+            }
+         ],
+         "place_id" : "ChIJB9wdKfN2bjQRHf8hGJNovHs",
+         "plus_code" : {
+            "compound_code" : "X6W7+HR 台灣台南市東區",
+            "global_code" : "7QJ2X6W7+HR"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJB9wdKfN2bjQRHf8hGJNovHs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 174,
+         "vicinity" : "東區大學路西段89號2樓"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.00573809999999,
+               "lng" : 120.2189631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0070719302915,
+                  "lng" : 120.2202344802915
+               },
+               "southwest" : {
+                  "lat" : 23.0043739697085,
+                  "lng" : 120.2175365197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "老友小吃",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114044457217500654231\"\u003eJi Wei Syue\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3cywrxwHQy4oGs3E6NBWUbtm_DIkFqdSZea3Ay4C8n1teV4Yq_-3SLDui8ZsLSw2NwFV_DoGnq3Of12gVF99N5raQphKO5bOMUA1exn1jGP0smrnDqP0g8X9oPKD7rstAaGiuhdPd3cXkKDUM2H-Ir6v8TARgX1FdJlYCgXeDivPeP1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJRc9MUO52bjQRFVlRivGQGww",
+         "plus_code" : {
+            "compound_code" : "2649+7H 台灣台南市北區",
+            "global_code" : "7QM22649+7H"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJRc9MUO52bjQRFVlRivGQGww",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 2846,
+         "vicinity" : "北區勝利路268號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.9898086,
+               "lng" : 120.2081175
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9911578302915,
+                  "lng" : 120.2094659302915
+               },
+               "southwest" : {
+                  "lat" : 22.9884598697085,
+                  "lng" : 120.2067679697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "M&M音樂廚房",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115976509495145112472\"\u003eying huang\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3dN9-qF_gc-mhVFuAq01h-F_ecOwNrZH6aAcxXBnlBRJZlmK_MtQue3cV772837lCmYKeOA6REgQsEkawmfmFv8jPlUJg1ubesFz-jpCJfcLtlwkbzbLQVx6fIHSLNvMCGrWSD3w8uCx8gY1EVhrA34gnCH0z9KAmLAMVPhvqaq5tdF",
+               "width" : 1936
+            }
+         ],
+         "place_id" : "ChIJXfyXf4h2bjQRT6b1LpFnkZ4",
+         "plus_code" : {
+            "compound_code" : "X6Q5+W6 台灣台南市中西區",
+            "global_code" : "7QJ2X6Q5+W6"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJXfyXf4h2bjQRT6b1LpFnkZ4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 117,
+         "vicinity" : "中西區城隍街23號"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.0082034,
+               "lng" : 120.2215916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0095219802915,
+                  "lng" : 120.2229617302915
+               },
+               "southwest" : {
+                  "lat" : 23.0068240197085,
+                  "lng" : 120.2202637697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "開元路無名虱目魚 ‧ 肉燥飯",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107706987235933221671\"\u003eAnita Kao\u003c/a\u003e"
+               ],
+               "photo_reference" : "AeJbb3esR8tyc-tGLW94huO_9emo8Qb8r4H3Ir3fqW78RQPzipAwhVntAu_FxKH-WV-i4H-Lt0vCcwyu0ew3pSpHt497PmrmlmnadZgdSerfaWmbBohdPNJmk3xkv2Bx7L0BbSArnjkpETFCTaWrPQZcJUDruYlZN3EubtLVzCeBKcuwT1Ds",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJvbxVEuZ2bjQR_cOYCHMqvQs",
+         "plus_code" : {
+            "compound_code" : "265C+7J 台灣台南市北區",
+            "global_code" : "7QM2265C+7J"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJvbxVEuZ2bjQR_cOYCHMqvQs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 2437,
+         "vicinity" : "北區開元路313號"
+      }
+   ],
+   "status" : "OK"
+}
