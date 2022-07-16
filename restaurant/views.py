@@ -1,7 +1,10 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.views.generic.list import ListView
+from django.views.generic import View
+from django.db.models import Max
 from .models import Restaurant
 import json
+import random
 
 # Create your views here.
 
@@ -40,9 +43,25 @@ def read_data(files=GOOGLE_MAP_RESTAURANTS_FILES):
     # print(restaurant_list)
 
 
-class RestaurantListView(ListView):
-    model = Restaurant
-    paginate_by = 100
+class RestaurantDrawLotsView(View):
+    template_file = 'restaurant/restaurant_list.html'
 
-    def get_context_data(self, **kwargs):
-        return super().get_context_data(**kwargs)
+    def get(self, request, **kwargs):
+        restaurant_list = Restaurant.objects.all()
+        result = get_random()
+        return render(
+            request, self.template_file,
+            {
+                'restaurant_list': restaurant_list,
+                'result': result
+            }
+        )
+
+
+def get_random():
+    max_id = Restaurant.objects.all().aggregate(max_id=Max("id"))['max_id']
+    while True:
+        pk = random.randint(1, max_id)
+        restaurant = Restaurant.objects.filter(pk=pk).first()
+        if restaurant:
+            return restaurant

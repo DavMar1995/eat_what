@@ -2,14 +2,66 @@
 
 {% block title %}甲蝦咪{% endblock %}
 
+{% block css %}
+<style>
+    * {
+        margin: 10px auto;
+        text-align: center;
+    }
+
+    #h1 {
+        text-align: center;
+    }
+
+    #parent_div {
+        display: flex;
+        /* 水平置中 */
+        justify-content: center;
+        /* 垂直置中 */
+        align-items: center;
+    }
+
+    #list-div {
+        /* width: 200px; */
+        padding: 20px;
+    }
+
+    #drawlots-div {
+        /* width: 200px; */
+        padding: 20px;
+    }
+</style>
+
+
+{% endblock %}
+
 {% block content %}
-<h1>甲蝦咪</h1>
-<h2>選項</h2>
-<ul>
-    {% for restaurant in object_list %}
-    <li>{{ restaurant.name }}</li>
-    {% empty %}
-    <li>No restaurants yet.</li>
-    {% endfor %}
-</ul>
+<h1 id="h1">甲蝦咪</h1>
+<div id="parent-div">
+    <div id="list-div">
+        <h2>選項</h2>
+        <div id="edit-div">
+            <button>新增選項</button>
+        </div>
+        <table>
+            {% for restaurant in restaurant_list %}
+            <tr>
+                <td>
+                    {{ restaurant.name }}
+                </td>
+            </tr>
+            {% empty %}
+            <li>No restaurants yet.</li>
+            {% endfor %}
+        </table>
+    </div>
+
+    <div id="drawlots-div">
+        <h2>決定命運的一刻</h2>
+        <h3 id="poll-result">{{ result.name }}~ 走起</h3>
+        <a href="{% url 'restaurant-drawlots' %}"><button>我不服~ 上訴</button></a>
+
+    </div>
+</div>
+
 {% endblock %}
