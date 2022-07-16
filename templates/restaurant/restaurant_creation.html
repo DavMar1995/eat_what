@@ -1,0 +1,16 @@
+{% extends parent_template|default:"base.html" %}
+
+{% load static %}
+
+{% block title %}
+Create restaurant
+{% endblock title %}
+
+{% block content %}
+<form method="post" action="{% url 'restaurant-creation' %}">
+    {% csrf_token %}
+    <h4>名稱:</h4>
+    {{ form.name }}
+    <input type="submit" value="建立" />
+</form>
+{% endblock content %}

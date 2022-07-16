@@ -31,8 +31,6 @@
         padding: 20px;
     }
 </style>
-
-
 {% endblock %}
 
 {% block content %}
@@ -40,8 +38,8 @@
 <div id="parent-div">
     <div id="list-div">
         <h2>選項</h2>
-        <div id="edit-div">
-            <button>新增選項</button>
+        <div id="create-div">
+            <a href="{% url 'restaurant-creation' %}"><button>新增選項</button></a>
         </div>
         <table>
             {% for restaurant in restaurant_list %}
@@ -60,7 +58,6 @@
         <h2>決定命運的一刻</h2>
         <h3 id="poll-result">{{ result.name }}~ 走起</h3>
         <a href="{% url 'restaurant-drawlots' %}"><button>我不服~ 上訴</button></a>
-
     </div>
 </div>
 

@@ -3,6 +3,7 @@ from django.views.generic.list import ListView
 from django.views.generic import View
 from django.db.models import Max
 from .models import Restaurant
+from .forms import RestaurantCreationForm
 import json
 import random
 
@@ -65,3 +66,28 @@ def get_random():
         restaurant = Restaurant.objects.filter(pk=pk).first()
         if restaurant:
             return restaurant
+
+
+class RestaurantCreationView(View):
+    template_file = 'restaurant/restaurant_creation.html'
+    form_class = RestaurantCreationForm
+    model = Restaurant
+
+    def get(self, request):
+        form = self.form_class()
+        return render(
+            request, self.template_file,
+            {
+                'form': form
+            })
+
+    def post(self, request, parent_template=None):
+        form = self.form_class(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('/')
+        return render(
+            request, self.template_file,
+            {
+                'form': form,
+            })
