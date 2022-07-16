@@ -1,0 +1,15 @@
+{% extends parent_template|default:"base.html" %}
+
+{% block title %}甲蝦咪{% endblock %}
+
+{% block content %}
+<h1>甲蝦咪</h1>
+<h2>選項</h2>
+<ul>
+    {% for restaurant in object_list %}
+    <li>{{ restaurant.name }}</li>
+    {% empty %}
+    <li>No restaurants yet.</li>
+    {% endfor %}
+</ul>
+{% endblock %}
