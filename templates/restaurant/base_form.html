@@ -1,0 +1,17 @@
+{% extends parent_template|default:"base.html" %}
+
+{% load static %}
+
+{% block content %}
+{% block page_title %}{% endblock page_title %}
+<form method="post" action="{% block form_action %}{% endblock form_action %}">
+    {% csrf_token %}
+
+    {% block form_content %}
+    {% endblock form_content %}
+
+    <br />
+    <a href="{% url 'restaurant-drawlots' %}"><button>取消</button></a>
+    <input type="submit" value="修改" />
+</form>
+{% endblock content %}

@@ -4,31 +4,13 @@
 
 {% block css %}
 <style>
-    * {
-        margin: 10px auto;
-        text-align: center;
-    }
-
-    #h1 {
-        text-align: center;
-    }
-
-    #parent_div {
-        display: flex;
-        /* 水平置中 */
-        justify-content: center;
-        /* 垂直置中 */
-        align-items: center;
-    }
-
     #list-div {
-        /* width: 200px; */
         padding: 20px;
     }
 
-    #drawlots-div {
-        /* width: 200px; */
-        padding: 20px;
+    .detail-a {
+        text-decoration: none;
+        color: gray;
     }
 </style>
 {% endblock %}
@@ -47,6 +29,7 @@
                 <td>
                     {{ restaurant.name }}
                 </td>
+                <td><a class="detail-a" href="{{ restaurant.get_absolute_url }}">編輯</a></td>
             </tr>
             {% empty %}
             <li>No restaurants yet.</li>

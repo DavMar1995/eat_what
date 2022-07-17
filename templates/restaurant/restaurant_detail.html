@@ -3,17 +3,20 @@
 {% load static %}
 
 {% block title %}
-Create restaurant
+Restaurant detail
 {% endblock title %}
 
 {% block page_title %}
-<h1>新增選項</h1>
+<h1>檢視選項</h1>
 {% endblock page_title %}
 
 {% block form_action %}
-{% url 'restaurant-creation' %}
+{{ restaurant.get_absolute_url }}
 {% endblock form_action %}
 
+
 {% block form_content %}
-<h4>名稱:</h4> {{ form.name }}
+<!-- {{form}} -->
+<p>名稱({{ form.name.label }}) {{ form.name }}</p>
+<p>{{ form.price_level.label }}: {{ form.price_level }}</p>
 {% endblock form_content %}

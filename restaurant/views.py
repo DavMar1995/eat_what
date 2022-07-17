@@ -1,9 +1,10 @@
-from django.shortcuts import render, redirect
+from unicodedata import name
+from django.shortcuts import render, redirect, get_object_or_404
 from django.views.generic.list import ListView
 from django.views.generic import View
 from django.db.models import Max
 from .models import Restaurant
-from .forms import RestaurantCreationForm
+from .forms import RestaurantCreationForm, RestaurantUpdateForm
 import json
 import random
 
@@ -90,4 +91,37 @@ class RestaurantCreationView(View):
             request, self.template_file,
             {
                 'form': form,
+            })
+
+
+class RestaurantDetailView(View):
+    template_file = 'restaurant/restaurant_detail.html'
+    form_class = RestaurantUpdateForm
+    model = Restaurant
+
+    def _getModelObj(self, id):
+        restaurantObj = get_object_or_404(self.model, id=id)
+        return restaurantObj
+
+    def get(self, request, restaurant_id):
+        restaurant = self._getModelObj(restaurant_id)
+        form = self.form_class(instance=restaurant)
+        return render(
+            request, self.template_file,
+            {
+                'form': form,
+                'restaurant': restaurant
+            })
+
+    def post(self, request, restaurant_id):
+        restaurant = self._getModelObj(restaurant_id)
+        form = self.form_class(request.POST, instance=restaurant)
+        if form.is_valid():
+            form.save()
+            return redirect('/')
+        return render(
+            request, self.template_file,
+            {
+                'form': form,
+                'restaurant': restaurant
             })
